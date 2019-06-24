@@ -1,0 +1,35 @@
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_PartialAppManifest.items
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.csprojAssemblyReference.cache
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.csproj.CoreCompileInputs.cache
+/Users/ayushpareek/Desktop/XamarinNL/bin/iPhoneSimulator/Debug/LanguageTokenizerViewController.cs
+/Users/ayushpareek/Desktop/XamarinNL/bin/iPhoneSimulator/Debug/Resources/hate_coreml.cs
+/Users/ayushpareek/Desktop/XamarinNL/bin/iPhoneSimulator/Debug/XamarinNL.exe
+/Users/ayushpareek/Desktop/XamarinNL/bin/iPhoneSimulator/Debug/XamarinNL.pdb
+/Users/ayushpareek/Desktop/XamarinNL/bin/iPhoneSimulator/Debug/LemmaSharp.dll
+/Users/ayushpareek/Desktop/XamarinNL/bin/iPhoneSimulator/Debug/LemmaSharpPrebuilt.dll
+/Users/ayushpareek/Desktop/XamarinNL/bin/iPhoneSimulator/Debug/LemmaSharpPrebuiltCompact.dll
+/Users/ayushpareek/Desktop/XamarinNL/bin/iPhoneSimulator/Debug/Lzma#.dll
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.csproj.CopyComplete
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.exe
+/Users/ayushpareek/Desktop/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.pdb
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/bin/iPhoneSimulator/Debug/LanguageTokenizerViewController.cs
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/bin/iPhoneSimulator/Debug/Resources/hate_coreml.cs
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/bin/iPhoneSimulator/Debug/XamarinNL.exe
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/bin/iPhoneSimulator/Debug/XamarinNL.pdb
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/bin/iPhoneSimulator/Debug/Lzma#.dll
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_PartialAppManifest.items
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.csprojAssemblyReference.cache
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.csproj.CoreCompileInputs.cache
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.csproj.CopyComplete
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.exe
+/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/XamarinNL.pdb

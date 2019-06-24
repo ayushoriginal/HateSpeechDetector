@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/bundle/AppIcon60x60@2x.png</string>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/bundle/AppIcon76x76@2x~ipad.png</string>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/bundle/Assets.car</string>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.notices</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][76x76][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>76x76@1x app icons only apply to iPad apps targeting releases of iOS prior to 10.0.</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+	</array>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/(null)[2d][Icon88x88.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcon" has an unassigned child.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][watch][29x29][companionSettings][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon87x87.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][40x40][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon80x80.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][40x40][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon40x40.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][watch][40x40][appLauncher][38mm][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon80x80.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][29x29][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon58x58.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][20x20][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon40x40.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][watch][29x29][companionSettings][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon58x58.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/(null)[2d][Icon88x88.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcon" has an unassigned child.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][watch][29x29][companionSettings][][3x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon87x87.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][29x29][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon58x58.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][40x40][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon80x80.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][40x40][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon40x40.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][watch][40x40][appLauncher][38mm][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon80x80.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][ipad][20x20][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon40x40.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][watch][29x29][companionSettings][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/ayushpareek/Desktop/Microsoft-MachineLearning/HateSpeech/App/Actual App/XamarinNL/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "Icon58x58.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

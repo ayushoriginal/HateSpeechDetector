@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/hate_coreml.mlmodelc/coremldata.bin">
+      <LogicalName>hate_coreml.mlmodelc/coremldata.bin</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/hate_coreml.mlmodelc/model.espresso.net">
+      <LogicalName>hate_coreml.mlmodelc/model.espresso.net</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/hate_coreml.mlmodelc/model.espresso.shape">
+      <LogicalName>hate_coreml.mlmodelc/model.espresso.shape</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/hate_coreml.mlmodelc/model.espresso.weights">
+      <LogicalName>hate_coreml.mlmodelc/model.espresso.weights</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/hate_coreml.mlmodelc/model/coremldata.bin">
+      <LogicalName>hate_coreml.mlmodelc/model/coremldata.bin</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/hate_coreml.mlmodelc/neural_network_optionals/coremldata.bin">
+      <LogicalName>hate_coreml.mlmodelc/neural_network_optionals/coremldata.bin</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

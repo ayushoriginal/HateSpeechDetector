@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{4B23923F-53C2-4C28-BBBA-B46889ACADE4}|Default">
+  <MonoDevelop.Ide.ItemProperties.HateSpeechDetector automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EC77E620-7D3A-4A9A-827D-A69C41666437" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Main.storyboard" />
+      <File FileName="LanguageTokenizerViewController.cs" Line="560" Column="2" />
+      <File FileName="LanguageTokenizerTableViewController.cs" />
+      <File FileName="LaunchScreen.storyboard" />
+      <File FileName="Resources/hate_coreml.cs" Line="1" Column="1" />
+      <File FileName="Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinNL" expanded="True">
+            <Node name="XamarinNL" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Assets.xcassets" selected="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="hate_coreml.mlmodel" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

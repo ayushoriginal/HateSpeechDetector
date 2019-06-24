@@ -1,0 +1,223 @@
+{
+  "storage" : "model.espresso.weights",
+  "properties" : {
+
+  },
+  "format_version" : 200,
+  "layers" : [
+    {
+      "nB" : 13948,
+      "top" : "embedding_1_output",
+      "has_biases" : 0,
+      "weights" : {
+
+      },
+      "nC" : 30,
+      "blob_weights" : 1,
+      "is_lookup" : 1,
+      "type" : "inner_product",
+      "has_relu" : 0,
+      "bottom" : "input1",
+      "has_tanh" : 0,
+      "hint_fallback_from_metal" : 1,
+      "name" : "embedding_1",
+      "has_prelu" : 0
+    },
+    {
+      "axis_h" : 1,
+      "axis_w" : 4,
+      "axis_k" : 2,
+      "bottom" : "embedding_1_output",
+      "axis_n" : 3,
+      "axis_seq" : 0,
+      "weights" : {
+
+      },
+      "top" : "embedding_1_permute_conv1d_1_output",
+      "type" : "transpose",
+      "name" : "embedding_1_permute_conv1d_1"
+    },
+    {
+      "pad_r" : 0,
+      "fused_relu" : 1,
+      "fused_tanh" : 0,
+      "pad_fill_mode" : 0,
+      "pad_b" : 0,
+      "pad_l" : 0,
+      "top" : "conv1d_1__activation___output",
+      "blob_weights" : 5,
+      "K" : 30,
+      "blob_biases" : 3,
+      "name" : "conv1d_1",
+      "has_batch_norm" : 0,
+      "type" : "convolution",
+      "n_groups" : 1,
+      "pad_t" : 0,
+      "has_biases" : 1,
+      "C" : 64,
+      "bottom" : "embedding_1_permute_conv1d_1_output",
+      "weights" : {
+
+      },
+      "pad_mode" : 0,
+      "Nx" : 5,
+      "pad_value" : 0,
+      "Ny" : 1,
+      "n_parallel" : 1
+    },
+    {
+      "pad_r" : 0,
+      "fused_relu" : 1,
+      "fused_tanh" : 0,
+      "pad_fill_mode" : 0,
+      "pad_b" : 0,
+      "pad_l" : 0,
+      "top" : "conv1d_2__activation___output",
+      "blob_weights" : 9,
+      "K" : 64,
+      "blob_biases" : 7,
+      "name" : "conv1d_2",
+      "has_batch_norm" : 0,
+      "type" : "convolution",
+      "n_groups" : 1,
+      "pad_t" : 0,
+      "has_biases" : 1,
+      "C" : 32,
+      "bottom" : "conv1d_1__activation___output",
+      "weights" : {
+
+      },
+      "pad_mode" : 0,
+      "Nx" : 3,
+      "pad_value" : 0,
+      "Ny" : 1,
+      "n_parallel" : 1
+    },
+    {
+      "pad_r" : 0,
+      "fused_relu" : 0,
+      "fused_tanh" : 0,
+      "pad_fill_mode" : 0,
+      "pad_b" : 0,
+      "pad_l" : 0,
+      "top" : "conv1d_3_output",
+      "blob_weights" : 13,
+      "K" : 32,
+      "blob_biases" : 11,
+      "name" : "conv1d_3",
+      "has_batch_norm" : 0,
+      "type" : "convolution",
+      "n_groups" : 1,
+      "pad_t" : 0,
+      "has_biases" : 1,
+      "C" : 16,
+      "bottom" : "conv1d_2__activation___output",
+      "weights" : {
+
+      },
+      "pad_mode" : 0,
+      "Nx" : 3,
+      "pad_value" : 0,
+      "Ny" : 1,
+      "n_parallel" : 1
+    },
+    {
+      "mode" : 3,
+      "weights" : {
+
+      },
+      "top" : "conv1d_3__activation___output",
+      "type" : "activation",
+      "name" : "conv1d_3__activation__",
+      "bottom" : "conv1d_3_output"
+    },
+    {
+      "pad_value" : 0,
+      "average_count_exclude_padding" : 1,
+      "top_shape_style" : 0,
+      "avg_or_max" : 1,
+      "stride_x" : 5,
+      "pad_mode" : 2,
+      "stride_y" : 1,
+      "pad_t" : 0,
+      "weights" : {
+
+      },
+      "size_y" : 1,
+      "type" : "pool",
+      "pad_r" : 0,
+      "pad_b" : 0,
+      "size_x" : 5,
+      "pad_fill_mode" : 0,
+      "bottom" : "conv1d_3__activation___output",
+      "pad_l" : 0,
+      "name" : "max_pooling1d_1",
+      "top" : "max_pooling1d_1_output"
+    },
+    {
+      "axis_h" : 1,
+      "axis_w" : 4,
+      "axis_k" : 2,
+      "bottom" : "max_pooling1d_1_output",
+      "axis_n" : 3,
+      "axis_seq" : 0,
+      "weights" : {
+
+      },
+      "top" : "max_pooling1d_1_permute_flatten_1_output",
+      "type" : "transpose",
+      "name" : "max_pooling1d_1_permute_flatten_1"
+    },
+    {
+      "axis_h" : 4,
+      "axis_w" : 0,
+      "axis_k" : 2,
+      "bottom" : "max_pooling1d_1_permute_flatten_1_output",
+      "axis_n" : 3,
+      "axis_seq" : 1,
+      "weights" : {
+
+      },
+      "top" : "flatten_1_output__permute__",
+      "type" : "transpose",
+      "name" : "flatten_1__permute__"
+    },
+    {
+      "mode" : 1,
+      "weights" : {
+
+      },
+      "top" : "flatten_1_output",
+      "type" : "flatten",
+      "name" : "flatten_1",
+      "bottom" : "flatten_1_output__permute__"
+    },
+    {
+      "nB" : 112,
+      "top" : "dense_1_output",
+      "has_biases" : 1,
+      "weights" : {
+
+      },
+      "nC" : 2,
+      "blob_weights" : 17,
+      "type" : "inner_product",
+      "has_relu" : 0,
+      "bottom" : "flatten_1_output",
+      "blob_biases" : 15,
+      "has_tanh" : 0,
+      "name" : "dense_1",
+      "has_prelu" : 0
+    },
+    {
+      "C" : 2,
+      "weights" : {
+
+      },
+      "top" : "output1",
+      "type" : "softmax",
+      "name" : "dense_1__activation__",
+      "bottom" : "dense_1_output"
+    }
+  ]
+}
